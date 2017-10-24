@@ -1,4 +1,4 @@
-package in.propelsoft.sec;
+package in.example.sec;
 
 import org.junit.Test;
 

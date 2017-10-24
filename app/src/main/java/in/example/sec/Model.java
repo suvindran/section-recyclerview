@@ -1,4 +1,4 @@
-package in.propelsoft.sec;
+package in.example.sec;
 
 /**
  * Created by suvindran on 11-Oct-17.

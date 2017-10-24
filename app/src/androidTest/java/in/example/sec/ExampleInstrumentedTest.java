@@ -1,4 +1,4 @@
-package in.propelsoft.sec;
+package in.example.sec;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

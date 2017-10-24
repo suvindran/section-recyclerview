@@ -1,4 +1,4 @@
-package in.propelsoft.sec;
+package in.example.sec;
 
 import android.content.Context;
 import android.support.v7.widget.LinearLayoutManager;
@@ -10,6 +10,9 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import in.example.sec.R;
+import in.example.sec.SectionModel;
 
 /**
  * Created by suvindran on 11-Oct-17.
